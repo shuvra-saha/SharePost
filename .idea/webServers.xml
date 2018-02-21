@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cff79441-e667-49e8-bbcd-7bd02a9a1700" name="apache" url="http://localhost/SharePost">
+        <fileTransfer port="0" mountedRoot="F:\program\xampp\htdocs\SharePost" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
